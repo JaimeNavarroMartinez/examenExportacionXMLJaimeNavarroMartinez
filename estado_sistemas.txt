@@ -1,0 +1,10 @@
+Estrella de la Muerte,Reactor Principal,Critico
+Destructor Estelar,Escudos Deflectores,Estable
+Base Eco,Generador de Energía,Mantenimiento
+Caza TIE,Sistemas de Soporte Vital,Critico
+Halcón Milenario,Hipermotor,Critico
+Planeta Endor,Búnker del Escudo,Estable
+Caza X-Wing,Unidad Astromecánica R2,Estable
+Crucero Mon Calamari,Puente de Mando,Estable
+Superdestructor Ejecutor,Hiperimpulsor Principal,Critico
+Estrella de la Muerte,Superláser de Energía,Critico
